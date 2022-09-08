@@ -2,4 +2,7 @@ Fájl
 Sor
 
 
+
 conflict a
+
+
