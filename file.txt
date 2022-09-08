@@ -2,4 +2,4 @@ Fájl
 Sor
 
 
-conflict
+conflict a
